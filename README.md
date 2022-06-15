@@ -2,6 +2,8 @@
 
 ☢️ Telefonálás mikrohullámok nélkül
 
+[🇬🇧 In English](https://github-com.translate.goog/szepeviktor/VoIP/blob/main/README.md?_x_tr_sl=hu&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
+
 ### Motíváció
 
 1. A mobiltelefonokban egy 10 km-es hatótávolságú mikrohullámú adó van
