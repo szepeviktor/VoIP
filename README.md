@@ -15,10 +15,10 @@
 
 [N-System Távközlési Kft.](https://n-system.hu/)
 
-- **Segélyhívásra nem használható**
+- Segélyhívásra használható: `112`
 - Szabványos SIP protokol, akármilyen [SIP kliens](https://www.microsip.org/) használható
 - [ACE Telekom Kft. hálózatában](https://bgp.he.net/AS50261) van
 - Van hívószám küldés/kijelzés
-- rövidített hívószámok?
-- kék/zöldszámok?
-- SMS küldés/fogadás?
+- Rövidített hívószámok is hívhatóak
+- Kék és zöldszámok is hívhatóak
+- :x: SMS küldés/fogadás nem lehetséges
