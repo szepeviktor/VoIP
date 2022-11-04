@@ -9,7 +9,7 @@
 1. A mobiltelefonokban egy 10 km-es hatótávolságú mikrohullámú adó van
 2. A számítógépen lehet kezelni a telefonálást (copy-paste, `tel:` URL-ek)
 3. A [webkamerában](https://www.logitech.com/hu-hu/products/webcams.html)
-   lévő mikrofonnal és hangszórókkal felszabadul az ember keze, és akár el is sétálhat pár métert
+   lévő mikrofonnal és külső hangszórókkal felszabadul az ember keze, és akár el is sétálhat pár métert
 
 ### Szolgáltató
 
