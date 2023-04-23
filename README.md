@@ -1,8 +1,8 @@
 # VoIP
 
-☢️ Telefonálás mikrohullámok nélkül
+[![en](https://img.shields.io/badge/lang-english%20%F0%9F%87%AC%F0%9F%87%A7-white)](https://github-com.translate.goog/szepeviktor/VoIP/blob/main/README.md?_x_tr_sl=hu&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
 
-[🇬🇧 In English](https://github-com.translate.goog/szepeviktor/VoIP/blob/main/README.md?_x_tr_sl=hu&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
+☢️ Telefonálás mikrohullámok nélkül
 
 ### Motíváció
 
